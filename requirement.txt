@@ -1,0 +1,21 @@
+# Core dependencies
+fastapi
+uvicorn
+streamlit
+
+# Machine Learning & NLP
+sentence-transformers
+keybert
+scikit-learn
+pandas
+numpy
+joblib
+nltk
+
+# Database & File Handling
+openpyxl   # Required for reading .xlsx files
+SQLAlchemy  # If you're using a database like SQLite/MySQL
+psycopg2    # If using PostgreSQL
+
+# Web Requests
+httpx
