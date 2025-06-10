@@ -1,4 +1,4 @@
-FindItRight 🚀
+# FindItRight 🚀
 Bridging the gap between innovative startups and strategic investors through AI-powered matching and seamless communication.
 
 Overview
